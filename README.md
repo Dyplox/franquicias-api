@@ -10,7 +10,7 @@ producto tiene un nombre y una cantidad de stock.
 
 ## Cómo ejecutarlo en local
 
-### Opción 1: con Docker (recomendada)
+### Opción 1: con Docker
 
 Solo necesitas tener Docker instalado. Este comando levanta MySQL y el API:
 

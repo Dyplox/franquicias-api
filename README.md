@@ -3,6 +3,9 @@
 [![CI](https://github.com/Dyplox/franquicias-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Dyplox/franquicias-api/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
+> 🇬🇧 **English summary:** REST API built with **Spring Boot 3** and **Java 17** to manage franchises, their branches and each branch's products and stock. It uses Spring Web and Spring Data JPA with MySQL, runs with Docker Compose, and its tests run on an in-memory H2 database in a GitHub Actions CI pipeline. The rest of this README is in Spanish.
 
 API REST en **Spring Boot** para manejar franquicias. Una franquicia tiene un nombre y
 un listado de sucursales; una sucursal tiene un nombre y un listado de productos; un

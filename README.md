@@ -1,5 +1,9 @@
 # API de Franquicias
 
+[![CI](https://github.com/Dyplox/franquicias-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Dyplox/franquicias-api/actions/workflows/ci.yml)
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F)
+
 API REST en **Spring Boot** para manejar franquicias. Una franquicia tiene un nombre y
 un listado de sucursales; una sucursal tiene un nombre y un listado de productos; un
 producto tiene un nombre y una cantidad de stock.
